@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nirmified
 - 👀 I’m interested in the feild of Data Science|Machine learning | Gen AI
-- 🌱 I’m currently currebtly working as a business analyst @ Amazon
+- 🌱 I’m currently  working as a business analyst @ Amazon for over 2 years
 - 📫 How to reach me : nirmified@gmail.com
 
 <!---
